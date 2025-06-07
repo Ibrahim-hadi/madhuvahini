@@ -736,6 +736,9 @@ div.desc {
             background: var(--dark-color);
             transform: translateY(-5px);
         }
+        a{
+            text-decoration: none;
+        }
 
         /* Animations */
         @keyframes fadeInDown {
